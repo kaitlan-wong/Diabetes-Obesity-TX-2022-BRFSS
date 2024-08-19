@@ -1,2 +1,2 @@
 # Diabetes-Obesity-TX-2022-BRFSS
-Diabetes and Obesity Rates_Texas_2022
+Data was downloaded from CDC's 2022 BRFSS data files here: <https://www.cdc.gov/brfss/annual_data/annual_2022.html/>
